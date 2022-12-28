@@ -257,6 +257,9 @@ td,th{
     .lista-diferenciales, .imagen-diferenciales{
         width: 100%;
     }
+    .productos{
+        padding: 0;
+    }
 
 }
 
