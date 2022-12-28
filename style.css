@@ -39,8 +39,9 @@ nav a:hover{
 
 .productos{
     width: 940px;
-    margin: 0 auto;
-    padding: 50px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
@@ -257,9 +258,5 @@ td,th{
     .lista-diferenciales, .imagen-diferenciales{
         width: 100%;
     }
-    .productos{
-        padding: 0;
-    }
-
 }
 
